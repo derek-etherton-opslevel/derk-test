@@ -1,0 +1,17 @@
+---
+version: 1
+service:
+  name: yeehaw_1
+  lifecycle: pre-alpha
+  tier: tier_2
+  product: etherton.ca
+  owner:
+  system:
+  language: typescript
+  framework: NextJS
+  description: Cowboy service
+  aliases:
+  repositories:
+  - name: derk-test
+    path: "/"
+    provider: github
